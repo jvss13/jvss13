@@ -1,4 +1,4 @@
-## Oi! Sou o João🖐️ / Hi i'm João🖐️
+## Oi! Sou o João🖐️ / Hi i am João🖐️
 
 
 Tecnologias que eu domino: / Technologies that I master:
@@ -12,7 +12,7 @@ Tecnologias que eu domino: / Technologies that I master:
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Encantado por tecnologia e inovação. / Enchanted by technology and innovation.
+ Entusiasta de tecnologia e inovação. / Technology and innovation enthusiast.
 
 <a href="https://github.com/jvss13/convoychat">
   <img height=176 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvss13&layout=compact&langs_count=8&card_width=320" />
